@@ -10,5 +10,5 @@ Repositorio para la clase, laboratorios y **tareas**
   + :paperclip: Laboratorio 1
   + :paperclip: Tarea 1
   
-### :date: Semana 2
-  + :notebook:
+### :date: Semana 2 16/08/2022
+  + :notebook: Ingreso de datos a R
